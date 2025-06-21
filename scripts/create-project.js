@@ -84,7 +84,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 )`
 
 // App.tsx
-const appTsx = `import { motion } from 'framer-motion'
+const appTsx = `
 
 function App() {
   return (
