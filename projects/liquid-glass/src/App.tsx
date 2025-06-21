@@ -1,5 +1,3 @@
-import { motion } from 'framer-motion'
-
 function App() {
   return (
     <div className="min-h-screen bg-background text-foreground p-8">
@@ -18,3 +16,4 @@ function App() {
 }
 
 export default App
+
